@@ -1,0 +1,27 @@
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+html {
+  scroll-behavior: smooth;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+.jumbotron {
+  width: 100%;
+  overflow: hidden;
+}
+.card {
+  width: 300px;
+}
+.card img {
+  height: 400px;
+}
+.pirates img {
+  border-radius: 4px;
+}
+.members {
+  border: 1px solid #ccc;
+}
